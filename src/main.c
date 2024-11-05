@@ -15,7 +15,7 @@ int main(void)
 //123333
 //DAY LA SUA
 	//ABC
-	//8 &9 10
+	//8 &9 10 11
 while(1)
 {
 GPIO_ResetBits(GPIOC,GPIO_Pin_5);
