@@ -8,7 +8,11 @@ int main(void)
 
 	LED_Config();
 	//Day la file dang test
+<<<<<<< HEAD
 	//123
+=======
+	//Tesst tiep
+>>>>>>> 655ffdb1b03b5972f12b2a88b6b2cc5336f60f6b
 
 	
 while(1)
