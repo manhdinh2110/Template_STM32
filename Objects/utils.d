@@ -1,6 +1,6 @@
 .\objects\utils.o: src\utils.c
 .\objects\utils.o: src\utils.h
-.\objects\utils.o: C:\Users\dinh.bui\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\utils.o: C:\Users\mediv\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\utils.o: src\Define.h
 .\objects\utils.o: .\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\utils.o: .\Libraries\CMSIS\Include\core_cm4.h
@@ -36,6 +36,6 @@
 .\objects\utils.o: .\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 .\objects\utils.o: .\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 .\objects\utils.o: .\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-.\objects\utils.o: C:\Users\dinh.bui\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
-.\objects\utils.o: C:\Users\dinh.bui\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\utils.o: C:\Users\dinh.bui\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\utils.o: C:\Users\mediv\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\utils.o: C:\Users\mediv\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\utils.o: C:\Users\mediv\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

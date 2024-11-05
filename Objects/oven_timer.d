@@ -1,7 +1,7 @@
 .\objects\oven_timer.o: fileTV\Oven_Timer\Oven_Timer.c
 .\objects\oven_timer.o: .\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\oven_timer.o: .\Libraries\CMSIS\Include\core_cm4.h
-.\objects\oven_timer.o: C:\Users\dinh.bui\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oven_timer.o: C:\Users\mediv\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\oven_timer.o: .\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\oven_timer.o: .\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\oven_timer.o: .\Libraries\CMSIS\Include\core_cmSimd.h
