@@ -7,6 +7,7 @@ int main(void)
 {
 
 	LED_Config();
+	//Day la file dang test
 
 	
 while(1)
