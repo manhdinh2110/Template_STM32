@@ -7,11 +7,15 @@ int main(void)
 {
 
 	LED_Config();
+
 	//Day la file dang test
 	//Tesst tiep
+	//Thay doi 
 
+//123333
+//DAY LA SUA
 	//ABC
-	
+	//8 &9
 while(1)
 {
 GPIO_ResetBits(GPIOC,GPIO_Pin_5);
