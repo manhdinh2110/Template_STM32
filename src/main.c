@@ -12,11 +12,9 @@ int main(void)
 	//Tesst tiep
 	//Thay doi 
 
+//123333
 
-<<<<<<< HEAD
-=======
 	//ABC
->>>>>>> add-test
 while(1)
 {
 GPIO_ResetBits(GPIOC,GPIO_Pin_5);
