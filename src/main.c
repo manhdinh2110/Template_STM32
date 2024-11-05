@@ -10,7 +10,7 @@ int main(void)
 	//Day la file dang test
 	//Tesst tiep
 
-	
+	//ABC
 while(1)
 {
 GPIO_ResetBits(GPIOC,GPIO_Pin_5);
