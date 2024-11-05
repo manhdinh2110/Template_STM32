@@ -1,0 +1,38 @@
+*   [33m3e021f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Merge branch 'master' of https://github.com/manhdinh2110/Template_STM32
+[31m|[m[32m\[m  
+[31m|[m * [33mcbdd922[m Hello
+[31m|[m *   [33m2aaabc7[m Merge branch 'master' of https://github.com/manhdinh2110/Template_STM32
+[31m|[m [33m|[m[34m\[m  
+[31m|[m * [34m\[m   [33mc773e60[m Add
+[31m|[m [35m|[m[36m\[m [34m\[m  
+[31m|[m [35m|[m * [34m|[m [33m89cc311[m[33m ([m[1;31morigin/add-test[m[33m)[m Add
+[31m|[m * [36m|[m [34m|[m [33mfa47b6d[m A
+* [36m|[m [36m|[m [34m|[m   [33m69b080d[m adad
+[34m|[m[1;32m\[m [36m\[m [36m\[m [34m\[m  
+[34m|[m [1;32m|[m[34m_[m[36m|[m[34m_[m[36m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [36m|[m [36m|[m   
+[34m|[m * [36m|[m [36m|[m [33me532b6a[m[33m ([m[1;31morigin/kyanh-branch[m[33m, [m[1;32mkyanh-branch[m[33m)[m newReadme
+* [1;32m|[m [36m|[m [36m|[m   [33m1d1800a[m Merge branch 'master' of https://github.com/manhdinh2110/Template_STM32
+[1;32m|[m[36m\[m [1;32m\[m [36m\[m [36m\[m  
+[1;32m|[m [36m|[m[1;32m/[m [36m/[m [36m/[m  
+[1;32m|[m[1;32m/[m[36m|[m [36m/[m [36m/[m   
+[1;32m|[m [36m|[m[36m/[m [36m/[m    
+[1;32m|[m * [36m|[m [33md92de6b[m Merge branch 'master' of https://github.com/manhdinh2110/Template_STM32
+[1;32m|[m [1;35m|[m[36m\[m[36m|[m 
+[1;32m|[m * [36m|[m   [33mbe33e7a[m Merge branch 'master' of https://github.com/manhdinh2110/Template_STM32
+[1;32m|[m [31m|[m[32m\[m [36m\[m  
+[1;32m|[m * [32m|[m [36m|[m [33m2025b64[m new
+[1;32m|[m * [32m|[m [36m|[m [33mf839e1d[m new
+[1;32m|[m * [32m|[m [36m|[m [33m7dd724d[m Test
+* [32m|[m [32m|[m [36m|[m [33m13387a8[m newTest
+[36m|[m [32m|[m[36m_[m[32m|[m[36m/[m  
+[36m|[m[36m/[m[32m|[m [32m|[m   
+* [32m|[m [32m|[m [33mbd46f9c[m Update testMergeOut
+[32m|[m [32m|[m[32m/[m  
+[32m|[m[32m/[m[32m|[m   
+* [32m|[m [33m833f5ca[m Create testMergeOut
+* [32m|[m [33m655ffdb[m asdasd
+* [32m|[m [33md0730e0[m Update main.c
+[32m|[m[32m/[m  
+* [33m1796a3c[m Update main.c
+* [33mcab1d56[m Add template
