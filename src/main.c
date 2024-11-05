@@ -8,6 +8,10 @@ int main(void)
 
 	LED_Config();
 
+	//Day la file dang test
+	//Tesst tiep
+	//Thay doi 
+
 
 while(1)
 {
