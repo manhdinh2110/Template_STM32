@@ -6,21 +6,18 @@ void LED_Config(void);
 int main(void)
 {
 
-	LED_Config();
+LED_Config();
 
-	//Day la file dang test
-	//Tesst tiep
-	//Thay doi 
-
-//123333
-//DAY LA SUA
-	//ABC
-	//8 &9 10 11
 while(1)
 {
 GPIO_ResetBits(GPIOC,GPIO_Pin_5);
 delay_01ms(1000);
 GPIO_SetBits(GPIOC,GPIO_Pin_5);
+delay_01ms(1000);
+	
+GPIO_ResetBits(GPIOB,GPIO_Pin_6);
+delay_01ms(1000);
+GPIO_SetBits(GPIOB,GPIO_Pin_6);
 delay_01ms(1000);
 }
 }
@@ -33,6 +30,8 @@ void LED_Config(void)
 		GPIO_InitStructure.GPIO_Speed = GPIO_Speed_100MHz;
 		GPIO_InitStructure.GPIO_OType = GPIO_OType_PP;
 		GPIO_InitStructure.GPIO_PuPd = GPIO_PuPd_NOPULL;
-		GPIO_InitStructure.GPIO_Pin = GPIO_Pin_5;
+		GPIO_InitStructure.GPIO_Pin = GPIO_Pin_5|GPIO_Pin_6;
 		GPIO_Init(GPIOC, &GPIO_InitStructure);
+		GPIO_Init(GPIOB, &GPIO_InitStructure);
+
 	}
