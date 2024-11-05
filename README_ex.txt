@@ -12,3 +12,7 @@ tai ceiibsbandklakslkl mat m
 
 
 FIXX khi dang trong master 
+
+pull origin master
+
+MERGE MASTER TO KYANH and fix 
