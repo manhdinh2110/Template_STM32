@@ -13,6 +13,10 @@ int main(void)
 	//Thay doi 
 
 
+<<<<<<< HEAD
+=======
+	//ABC
+>>>>>>> add-test
 while(1)
 {
 GPIO_ResetBits(GPIOC,GPIO_Pin_5);
