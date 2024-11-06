@@ -52,7 +52,7 @@
           <OutputName>template</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
-          <CreateHexFile>0</CreateHexFile>
+          <CreateHexFile>1</CreateHexFile>
           <DebugInformation>1</DebugInformation>
           <BrowseInformation>1</BrowseInformation>
           <ListingPath>.\Listings\</ListingPath>
@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F40_41xxx,USE_STDPERIPH_DRIVER,HSE_VALUE=8000000</Define>
               <Undefine></Undefine>
-              <IncludePath>.\src;.\Libraries\STM32F4xx_StdPeriph_Driver\inc;.\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm;.\Libraries\CMSIS\Include;.\Libraries\STM32F4xx_StdPeriph_Driver\inc;.\Libraries\CMSIS\Device\ST\STM32F4xx\Include;.\fileTV;.\src;.\fileTV\Timer;.\fileTV\Oven_Timer</IncludePath>
+              <IncludePath>.\src;.\Libraries\STM32F4xx_StdPeriph_Driver\inc;.\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm;.\Libraries\CMSIS\Include;.\Libraries\STM32F4xx_StdPeriph_Driver\inc;.\Libraries\CMSIS\Device\ST\STM32F4xx\Include;.\fileTV;.\src;.\fileTV\Timer;.\fileTV\Oven_Timer;.\fileTV\GPIO;.\fileTV\TFT_LCD</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -478,6 +478,16 @@
               <FileName>Oven_Timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\fileTV\Oven_Timer\Oven_Timer.c</FilePath>
+            </File>
+            <File>
+              <FileName>GPIO.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\fileTV\GPIO\GPIO.c</FilePath>
+            </File>
+            <File>
+              <FileName>TFT_LCD.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\fileTV\TFT_LCD\TFT_LCD.c</FilePath>
             </File>
           </Files>
         </Group>

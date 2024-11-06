@@ -35,3 +35,5 @@
 .\objects\main.o: .\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 .\objects\main.o: .\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
 .\objects\main.o: .\fileTV\Oven_Timer\Oven_Timer.h
+.\objects\main.o: .\fileTV\GPIO\GPIO.h
+.\objects\main.o: .\fileTV\TFT_LCD\TFT_LCD.h
